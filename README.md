@@ -22,7 +22,7 @@ pip install protobuf==3.17.3
 ### 本地安装
 ```shell 
 # 通过git下载SDK到本地
-git clone https://github.com/klogsdk/klog-python-sdk.git
+git clone https://gitee.com/klogsdk/klog-python-sdk.git
 
 # 进入klog-python-sdk目录
 cd klog-python-sdk

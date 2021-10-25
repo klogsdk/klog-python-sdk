@@ -1,4 +1,4 @@
-X_KLOG_API_VERSION = "0.7_py"
+X_KLOG_API_VERSION = "0.2_py0.8"
 
 MAX_KEY_COUNT = 900  # amount
 MAX_KEY_SIZE = 1 << 20  # byte
