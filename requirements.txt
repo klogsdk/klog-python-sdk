@@ -1,0 +1,4 @@
+lz4
+
+# v3.17.3 is the highest version that supports python 2.7
+protobuf==3.17.3
